@@ -1,0 +1,12 @@
+syntax
+=======================
+
+selector{
+
+      proparty1 : value1 ;
+      proparty2 : value2 ;
+      proparty3 : value3 ; 
+}
+
+================================
+
