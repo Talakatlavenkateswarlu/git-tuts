@@ -1,0 +1,23 @@
+input : checked {
+    div: val;
+}
+
+div:empty{
+    prop: val;
+}
+
+a : hover{
+    prop: val;
+} 
+
+a:visited{
+    prop: val;
+}
+
+p: first-chaild{
+    prop: val;
+}
+
+p: lost-chaild{
+    prop: val;
+}
