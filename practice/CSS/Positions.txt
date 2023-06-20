@@ -1,0 +1,11 @@
+Position properties - 
+p{
+    proparty:vall;
+}
+
+position -
+1.Static
+2.Relative
+3.Fixed
+4.absolute
+5.sticky
