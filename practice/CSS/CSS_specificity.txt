@@ -1,0 +1,12 @@
+styleing ?
+
+inline 
+classes, ids
+elements
+
+
+order:
+1.inline
+2.ids
+3.classes
+4.elements
