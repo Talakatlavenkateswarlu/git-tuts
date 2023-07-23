@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>innerHTML</title>
+</head>
+<body>
+    <h2 id="heading">innerHTML lecture</h2>
+    <p id="para">Hello world</p>
+    <script> 
+        const a = document.getElementById("heading");
+        a.innerHTML = a.innerHTML + "INNEarHTML lecture";
+
+        document.getElementById("para").innerHTML = "this is new content";
+
+        const b = document.getElementById("para");
+        b.innerHTML = b.innerHTML + " this is your planate"
+
+
+        </script>
+
+    </body>
+</html>
