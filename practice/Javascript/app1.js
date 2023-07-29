@@ -25,3 +25,10 @@ arr.forEach(avg)
 console.log(average_value/5);
 
 
+// 
+
+arr.forEach(function abc(val)
+{
+    console.log(val)
+})
+// 
