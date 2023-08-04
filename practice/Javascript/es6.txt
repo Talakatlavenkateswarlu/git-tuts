@@ -1,0 +1,15 @@
+EC6 - Ecma script 2015
+
+major updates in 2015
+
+1.Arrow functions
+2.Template literater
+3.let & const    -- -->before 2015 - var
+                 ----->ofter 2015 - let & const     
+4.Destructering --1.array
+                  2.object
+5.classes
+6.Formises
+
+json -- java script object Notation
+
